@@ -1,4 +1,4 @@
-# Hi , I am Raphael Oliveira , Welcome to my GitHub 👋 
+# Hey , I am Raphael Oliveira , Welcome to my GitHub 👋 
 
 
 
