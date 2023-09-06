@@ -1,5 +1,5 @@
-<div>
-  
+
+
   <h1 align="center">
     Hi , Welcome to my GitHub ! 👋
   </h1>
@@ -39,4 +39,3 @@
   <a href="Rafael.oliveira205df@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-</div>
